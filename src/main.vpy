@@ -44,7 +44,7 @@ var enemy_dx = -2
 
 def main():
     # Initialization
-    PLAY_MUSIC("jetpac_theme") 
+    PLAY_MUSIC("jetpac") 
     let i =0
 
 def loop():

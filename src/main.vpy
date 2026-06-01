@@ -13,7 +13,7 @@ var player_x = 0
 var player_y = -80
 var player_dx = 0
 var player_dy = 0
-
+ 
 # === SHIP PARTS (0=on platform, 1=carried, 2=assembled) ===
 var part1_state = 0     # Bottom section
 var part2_state = 0     # Middle section  
@@ -44,7 +44,7 @@ var enemy_dx = -2
 
 def main():
     # Initialization
-    PLAY_MUSIC("jetpac_theme3") 
+    PLAY_MUSIC("jetpac_theme3_new") 
     let i =0
 
 def loop():
